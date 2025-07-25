@@ -1,0 +1,22 @@
+{
+  "adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib": {
+    "type": "Adenocarcinoma",
+    "stage": "Ib",
+    "stage_num": 1
+  },
+  "large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa": {
+    "type": "Large Cell Carcinoma",
+    "stage": "IIIa",
+    "stage_num": 3
+  },
+  "normal": {
+    "type": "Normal",
+    "stage": "",
+    "stage_num": 0
+  },
+  "squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa": {
+    "type": "Squamous Cell Carcinoma",
+    "stage": "IIIa",
+    "stage_num": 3
+  }
+}

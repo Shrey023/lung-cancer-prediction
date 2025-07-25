@@ -1,0 +1,7 @@
+/venv
+/dataset
+/old
+/runs
+
+lung_cancer_model_convnext.pth
+lung_cancer_model_effb4.pth

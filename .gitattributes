@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+
+*.png filter=lfs diff=lfs merge=lfs -text
